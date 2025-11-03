@@ -1,0 +1,10 @@
+*{
+font-family: 'comic sansMS', cursive;
+}
+ul{
+list-style: georgian;
+}
+li{
+border: 1px, solid, black;
+border-collapse: collapse;
+}
